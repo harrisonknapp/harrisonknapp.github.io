@@ -1,0 +1,29 @@
+@font-face {
+   font-family: 'DrukCond';
+   src: url('assets/DrukCond.otf') format('opentype');
+}
+
+/* From GPT */
+#header {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 20px;
+ }
+ 
+ #name {
+   font-size: 128px;
+   font-family: DrukCond;
+   color: rgb(213, 222, 230);
+ }
+ 
+ #icons {
+   display: flex;
+ }
+ 
+ #icons i {
+   font-size: 24px;
+   margin-left: 10px;
+   color: rgb(213, 222, 230);
+ }
+
