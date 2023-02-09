@@ -9,21 +9,27 @@
    align-items: center;
    justify-content: space-between;
    padding: 20px;
+   margin: auto;
+  justify-content: center;
  }
  
  #name {
    font-size: 128px;
    font-family: DrukCond;
+   align-items: center;
    color: rgb(213, 222, 230);
  }
  
  #icons {
    display: flex;
+   align-items: center;
+   margin: 20px;
+   justify-content: center;
  }
  
  #icons i {
-   font-size: 24px;
-   margin-left: 10px;
+   font-size: 51px;
+   margin: 30px;
    color: rgb(213, 222, 230);
  }
 
