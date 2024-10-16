@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana, sans-serif;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Helvetica', 'Arial', sans-serif;
     margin: auto;
     padding: 20px;
     max-width: 720px;
@@ -334,7 +334,6 @@ hr {
 }
 
 body:hover {
-    border-image: ;
     border-width: 0;
 }
 

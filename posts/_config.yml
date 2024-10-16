@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: jekyllBear
+title: harrison knapp - I can type without looking
 description: a minimal, text focused blog theme
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
@@ -46,7 +46,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: America/Chicago
 future: false
 
 exclude:
@@ -60,8 +60,10 @@ Blog: /blog
 # Add general links to site pages here
 links:
   Resume: /assets/resume.pdf
+  Thanks: thanks.md
+  "< Back to harrisonkn.app": https://harrisonkn.app
   
 
 # Add links for more focus here
 special_links:
-  "Search": https://duckduckgo.com
+#  "Search": https://duckduckgo.com
