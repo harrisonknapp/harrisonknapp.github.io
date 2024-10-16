@@ -1,0 +1,4 @@
+# System-created files
+.DS_Store
+.vscode/
+*.log
