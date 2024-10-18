@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: harrison knapp - I can type without looking
+title: harrison knapp can type without looking
 description: Harrison wrote this.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://harrisonkn.app" # the base hostname & protocol for your site
@@ -58,7 +58,7 @@ Blog: /posts
 
 # Add general links to site pages here
 links:
-  Thanks: thanks.md
+  Thanks: /thanks
   
 
 # Add links for more focus here
