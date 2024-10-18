@@ -43,7 +43,6 @@ defaults:
     values:
       layout: tagged
 
-# baseurl: ""
 permalink: /posts/:slug
 timezone: America/Chicago
 future: false
@@ -51,6 +50,7 @@ future: false
 exclude:
 - README.md
 - LICENSE.md
+- example_posts
 
 exclude: [vendor]
 
