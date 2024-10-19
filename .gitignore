@@ -4,8 +4,6 @@
 *.log
 
 # Jekyll
-Gemfile.lock
-*/Gemfile.lock
 .jekyll-cache/
 _site/
 .sass-cache/
